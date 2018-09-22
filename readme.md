@@ -1,5 +1,5 @@
-This is for testing purposes only and will be deleted asap
-So my name is Sam Sunder
-I love to code
-I love Rock music . A typical 90's kid.
-I also love to play video games
+This is for <b>testing purposes only.</b><br>
+So my name is <b>Sam Sunder.</b><br>
+I love to <b>code.</b><br>
+I love Rock music, a typical <b>90's kid.</b><br>
+I also love to play <b>video games.</b>
